@@ -1,0 +1,78 @@
+/*Importation de la police Roboto depuis Google Fonts*/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-contact-info p {
+    margin: 0;
+    font-size: 12px;
+}
+
+/*Le background de ma section hero*/
+.bg-css {
+    background-image: url("../images/1.avif");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    opacity: 0.9;
+    width: 100%;
+    min-height: 100vh;
+}
+
+/*Rendre mes images en icon- A reùplacer plus tard par des Favicon*/
+/*Icon de la section en haut du navbar*/
+.icon-img1 {
+    width: 20px;
+    height: 20px;
+}
+.icon-img1-1 {
+    width: 25px;
+    height: 25px;
+}
+
+/*Icon des 3 images de la section en bas du hero*/
+.icon-img {
+    width: 50px;
+    height: 50px;
+}
+
+.partenariat-icone {
+    width: 75px;
+    height: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
